@@ -81,6 +81,7 @@ section {
 }
 
 section > p {
+    letter-spacing: 2.5px;
     padding-bottom: 2em;
 }
 
