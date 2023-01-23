@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'Cordel';
-    src: url('/modulo3/desafiocordel/fonts/Cordel\ Encarnado.otf') format('opentype'), url('/modulo3/desafiocordel/fonts/ShadowsIntoLight-Regular.ttf') format('truetype');
+    src: url('../fonts/Cordel\ Encarnado.otf') format('opentype');
 }
 
 :root {
@@ -25,7 +25,7 @@ html, body{
 
 header {
     mask-position: relative;
-    background-image: url(/modulo3/desafiocordel/imagens/cordelbackground.png);
+    background-image: url(../imagens/cordelbackground.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
